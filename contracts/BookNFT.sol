@@ -5,7 +5,7 @@ import "@klaytn/contracts/KIP/token/KIP37/extensions/KIP37Burnable.sol";
 import "@klaytn/contracts/access/Ownable.sol";
 
 contract BookNFT is KIP37Burnable, Ownable {
-    constructor() KIP37("123123") {
+    constructor() KIP37("https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/") {
         mint(msg.sender,0,2,"");
         mint(msg.sender,1,1,"");
         mint(msg.sender,2,2,"");
