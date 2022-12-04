@@ -1,6 +1,5 @@
 {
+  "name": "FirstBookImage",
   "description": "Test For a Book", 
-  "external_url": "", 
   "image": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/1.jpg", 
-  "name": "FirstBookImage"
 }
