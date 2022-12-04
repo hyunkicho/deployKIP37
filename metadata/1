@@ -1,0 +1,18 @@
+{
+  "description": "Test For a Book", 
+  "external_url": "https://github.com/hyunkicho/deployKIP37", 
+  "image": "", 
+  "name": "FirstBookImage",
+  "attributes": [ 
+    {
+        "display_type": "edition", 
+        "trait_type": "edtion number", 
+        "value": 0
+      }, 
+      {
+        "display_type": "year", 
+        "trait_type": "minted year", 
+        "value": 2022
+      }
+   ]
+}
