@@ -7,12 +7,10 @@ import "@klaytn/contracts/access/Ownable.sol";
 contract BookNFT is KIP37Burnable, Ownable {
     constructor() KIP37("123123") {
         mint(msg.sender,0,2,"");
-        // create(1,1000,"1234");
-        // mint(1,msg.sender,3);
+        mint(msg.sender,1,1,"");
+        mint(msg.sender,2,2,"");
+        mint(msg.sender,3,3,"");
     }
-
-    string public name = "Book NFT";
-    string public symbol = "BNF";
 
     function setURI(string memory newuri) public onlyOwner {
         _setURI(newuri);
