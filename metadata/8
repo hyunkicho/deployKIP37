@@ -1,13 +1,13 @@
 {
   "description": "Test For a Book", 
-  "external_url": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/1.jpg", 
+  "external_url": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/8.jpg", 
   "image": "", 
   "name": "FirstBookImage",
   "attributes": [ 
     {
         "display_type": "edition", 
         "trait_type": "edtion number", 
-        "value": 1
+        "value": 8
       }, 
       {
         "display_type": "year", 
