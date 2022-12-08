@@ -1,6 +1,1 @@
-{
-  "description": "Test For a Book", 
-  "external_url": "", 
-  "image": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/3.jpg", 
-  "name": "FirstBookImage"
-}
+{"description": "Test For a Book","external_url": "http://d3lab.xyz","image": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/3.jpg","name": "FirstBookImage"}

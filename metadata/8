@@ -1,18 +1,1 @@
-{
-  "description": "Test For a Book", 
-  "external_url": "https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/8.jpg", 
-  "image": "", 
-  "name": "FirstBookImage",
-  "attributes": [ 
-    {
-        "display_type": "edition", 
-        "trait_type": "edtion number", 
-        "value": 8
-      }, 
-      {
-        "display_type": "year", 
-        "trait_type": "minted year", 
-        "value": 2022
-      }
-   ]
-}
+{"description":"TestForaBook","external_url": "http://d3lab.xyz","image":"https://raw.githubusercontent.com/hyunkicho/deployKIP37/main/metadata/tarot_card_nft/8.jpg","name":"FirstBookImage","attributes":[{"display_type":"edition","trait_type":"edtionnumber","value":8},{"display_type":"year","trait_type":"mintedyear","value":2022}]}
